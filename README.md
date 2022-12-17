@@ -1,0 +1,5 @@
+- Hi, I’m Nicolas Talledo!
+- I’m interested in ... mobile app development and web development
+- I’m currently learning ... computer science at the College of Staten Island
+- At this moment, I’m looking for ... internships that revolve around mobile app or web development.
+- How to reach me ... https://www.linkedin.com/in/nicolas-talledo/
