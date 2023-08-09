@@ -45,12 +45,5 @@ Feel free to ask me about web development.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NickTalledo&theme=dark)
 
-## 📂 Repositories
-
-Here are some of my noteworthy repositories:
-
-- [Repository Name 1](Repository URL 1): [Brief Description]
-- [Repository Name 2](Repository URL 2): [Brief Description]
-- ...
 
 Thanks for visiting my profile! Feel free to connect and collaborate.
