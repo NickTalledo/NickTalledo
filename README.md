@@ -43,7 +43,7 @@ Feel free to ask me about web development.
 
 ## 🏆 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NickTalledo&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NickTalledo&layout=donut&theme=radical)
 
 
 Thanks for visiting my profile! Feel free to connect and collaborate.
