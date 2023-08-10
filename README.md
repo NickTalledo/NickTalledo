@@ -39,7 +39,7 @@ Feel free to ask me about web development.
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NickTalledo&show_icons=true&theme=radical)](https://github.com/NickTalledo)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NickTalledo&show_icons=true&rank_icon=github&theme=radical)](https://github.com/NickTalledo)
 
 
 ## 🏆 Top Languages
