@@ -1,6 +1,6 @@
 
 
-(https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Nick+Talledo;Full+Stack+Development;Computer+Science+Undergraduate;Software+Developer;Web+Designer)
+![Typing_SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Nick+Talledo;Full+Stack+Development;Computer+Science+Undergraduate;Software+Developer;Web+Designer)
 # Welcome to My GitHub Profile! 👋
 
 Hello there! I'm Nicolas Talledo, a passionate Software Developer from New York. I'm dedicated to creating web applications and constantly striving to learn and grow in the tech world. Feel free to explore my repositories, projects, and contributions!
