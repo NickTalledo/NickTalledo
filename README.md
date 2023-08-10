@@ -39,11 +39,11 @@ Feel free to ask me about web development.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NickTalledo&show_icons=true&theme=synthwave)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NickTalledo&show_icons=true&theme=radical)
 
 ## 🏆 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NickTalledo&theme=synthwave)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NickTalledo&theme=radical)
 
 
 Thanks for visiting my profile! Feel free to connect and collaborate.
