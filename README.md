@@ -7,7 +7,7 @@ Hello there! I'm Nicolas Talledo, a passionate Software Developer from New York.
 
 ## 🔭 Current Focus
 
-I'm currently working on Flex Fusion. I'm excited about making it deployment ready.
+I am currently learning penetration testing using Kali linux.
 
 ## 🌱 Learning
 
@@ -15,14 +15,14 @@ I'm always eager to learn and currently diving deeper into new technologies and 
 
 ## 💼 Universtiy
 
-I am currently a first gen student going into my senior year studying Computer Science at the CUNY College of Staten Island.
+I am currently a first gen student in my senior year studying Computer Science at the CUNY College of Staten Island.
 
 ## 🚀 Skills
 
-- Programming: C++, JavaScript, HTML, CSS
-- Technologies: React.js, Node.js, Express.js, PostgreSQL, Next.js, GitHub/Git, Bootstrap, Tailwind, Postman
+- Programming: C++, JavaScript, HTML, CSS, Python, Bash
+- Technologies: React.js, Jest, Node.js, Express.js, PostgreSQL, Next.js, Bootstrap, Tailwind, Postman, Supabase, Kali Linux, AWS, Docker
 - Languages: Spanish, English
-- Certifications: FreeCodeCamp JS Algorithms and Data Structures, Great Learning Full Stack Development
+- Certifications: CodePath Web Development, Coursera Google Cybersecurity, Great Learning Full Stack Development, FreeCodeCamp JS Algorithms and Data Structures
 
 
 ## 📫 Contact Me
