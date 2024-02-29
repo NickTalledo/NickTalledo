@@ -1,5 +1,4 @@
 
-
 [![Typing_SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Nick+Talledo;Full+Stack+Development;Computer+Science+Undergraduate;Software+Developer;Web+Designer)](https://github.com/NickTalledo)
 # Welcome to My GitHub Profile! 👋
 
