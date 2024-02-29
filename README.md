@@ -7,7 +7,7 @@ Hello there! I'm Nicolas Talledo, a passionate Software Developer from New York.
 
 ## 🔭 Current Focus
 
-I am currently learning penetration testing using Kali linux.
+I am currently a software engineer intern at The Difference App.
 
 ## 🌱 Learning
 
@@ -20,9 +20,9 @@ I am currently a first gen student in my senior year studying Computer Science a
 ## 🚀 Skills
 
 - Programming: C++, JavaScript, HTML, CSS, Python, Bash
-- Technologies: React.js, Jest, Node.js, Express.js, PostgreSQL, Next.js, Bootstrap, Tailwind, Postman, Supabase, Kali Linux, AWS, Docker
+- Technologies: React.js, Jest, Node.js, Express.js, PostgreSQL, Next.js, Bootstrap, Tailwind, Postman, Supabase, Kali Linux, AWS
 - Languages: Spanish, English
-- Certifications: CodePath Web Development, Coursera Google Cybersecurity, Great Learning Full Stack Development, FreeCodeCamp JS Algorithms and Data Structures
+- Certifications: TCM Sec Ethical Hacking, CodePath Web Development, Coursera Google Cybersecurity, Great Learning Full Stack Development, FreeCodeCamp JS Algorithms and Data Structures
 
 
 ## 📫 Contact Me
