@@ -7,7 +7,7 @@ Hello there! I'm Nicolas Talledo, a passionate Software Developer from New York.
 
 ## 🔭 Current Focus
 
-I am currently a software engineer intern at The Difference App.
+I've recently completed an internship as a software engineering intern at The Difference App and am finishing up my senior year.
 
 ## 🌱 Learning
 
@@ -21,8 +21,8 @@ I am currently a first gen student in my senior year studying Computer Science a
 
 - Programming: C++, JavaScript, HTML, CSS, Python, Bash
 - Technologies: React.js, Jest, Node.js, Express.js, PostgreSQL, Next.js, Bootstrap, Tailwind, Postman, Supabase, Kali Linux, AWS
-- Languages: Spanish, English
 - Certifications: TCM Sec Ethical Hacking, CodePath Web Development, Coursera Google Cybersecurity, Great Learning Full Stack Development, FreeCodeCamp JS Algorithms and Data Structures
+- Languages: Spanish, English
 
 
 ## 📫 Contact Me
