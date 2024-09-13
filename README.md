@@ -7,7 +7,7 @@ Hello there! I'm Nicolas Talledo, a passionate Software Developer from New York.
 
 ## 🔭 Current Focus
 
-I've recently completed an internship as a software engineering intern at The Difference App and am finishing up my senior year.
+I am currently working as an Associate Engineer for Amazon One Medical.
 
 ## 🌱 Learning
 
@@ -15,7 +15,7 @@ I'm always eager to learn and currently diving deeper into new technologies and 
 
 ## 💼 Universtiy
 
-I am currently a first gen student in my senior year studying Computer Science at the CUNY College of Staten Island.
+I studied Computer Science at the CUNY College of Staten Island and graduated with a Bachelors in August 2024.
 
 ## 🚀 Skills
 
